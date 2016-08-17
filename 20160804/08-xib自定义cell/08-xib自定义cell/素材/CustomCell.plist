@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>张三</string>
+		<key>detailTitle</key>
+		<string>我是好人</string>
+		<key>icon</key>
+		<string>icon0.jpg</string>
+		<key>ison</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>李四</string>
+		<key>detailTitle</key>
+		<string>我是大好人</string>
+		<key>icon</key>
+		<string>icon1.jpg</string>
+		<key>ison</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>王五</string>
+		<key>detailTitle</key>
+		<string>我是老好人</string>
+		<key>icon</key>
+		<string>icon2.jpg</string>
+		<key>ison</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>赵六</string>
+		<key>detailTitle</key>
+		<string>你们都是好人，我比你们更好</string>
+		<key>icon</key>
+		<string>icon3.jpg</string>
+		<key>ison</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>天气</string>
+		<key>detailTitle</key>
+		<string>今天天气不错</string>
+		<key>icon</key>
+		<string>icon4.jpg</string>
+		<key>ison</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>宋八</string>
+		<key>detailTitle</key>
+		<string>吓我一跳</string>
+		<key>icon</key>
+		<string>icon5.jpg</string>
+		<key>ison</key>
+		<false/>
+	</dict>
+</array>
+</plist>
